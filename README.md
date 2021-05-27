@@ -1,6 +1,6 @@
 # Sketch-Secrets
 
-how to add secrets to your arduino sketch without sync wuth remote public repo.
+how to add secrets to your arduino sketch without sync with remote public repo.
 
 after git clone... make a copy of `secrets.h.example` and rename to `secrets.h`
 
